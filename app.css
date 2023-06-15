@@ -5,3 +5,8 @@
     color: blue;
     background-color: aliceblue;
 }
+
+.uname{
+    border-radius: 10px;
+    size: 18px;
+}
