@@ -4,9 +4,26 @@
     text-transform: uppercase;
     color: blue;
     background-color: aliceblue;
+    size: 32px;
 }
 
 .uname{
-    border-radius: 10px;
+    border-radius: 5px;
     size: 18px;
+    color: grey;
+    margin-top: 5px;
+
+}
+.pwd{
+    border-radius: 5px;
+    color: grey;
+    margin-top: 5px;
+}
+
+.submit{
+    margin: 8px;
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+
 }
