@@ -12,18 +12,32 @@
     size: 18px;
     color: grey;
     margin-top: 5px;
+    padding: 5px;
 
 }
 .pwd{
     border-radius: 5px;
     color: grey;
     margin-top: 5px;
+    padding: 5px;
 }
 
 .submit{
     margin: 8px;
+    padding: 5px;
     color: white;
     background-color: green;
     border-radius: 5px;
+    align-content: center;
 
+}
+
+fieldset{
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: aliceblue;
+}
+
+form input{
+    align-items: center;
 }
