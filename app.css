@@ -38,6 +38,6 @@ fieldset{
     background-color: aliceblue;
 }
 
-form input{
-    align-items: center;
+.uname{
+    justify-content: center;
 }
